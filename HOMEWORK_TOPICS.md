@@ -1,0 +1,8 @@
+- [Neural style transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
+- [DeepDream](https://www.tensorflow.org/tutorials/generative/dcgan)
+- [DCGAN](https://www.tensorflow.org/tutorials/generative/deepdream)
+- [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix)
+- [CycleGAN](https://www.tensorflow.org/tutorials/generative/cyclegan)
+- [Adversarial FGSM](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm)
+- [Variational Ancoders](https://www.tensorflow.org/tutorials/generative/cvae)
+- [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
