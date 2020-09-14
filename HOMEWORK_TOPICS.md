@@ -6,3 +6,4 @@
 - [Adversarial FGSM](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm)
 - [Variational Ancoders](https://www.tensorflow.org/tutorials/generative/cvae)
 - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
+- [Depth-Aware Video Frame Interpolation](https://github.com/baowenbo/DAIN)
